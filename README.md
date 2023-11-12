@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Welcome to Adelyn's Github
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelynywlee alt="Top Langs"/>
+</div>
+
+
+
 <!--
 **adelynywlee/adelynywlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
