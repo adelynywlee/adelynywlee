@@ -2,7 +2,7 @@
 
 Welcome to Adelyn's Github
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=adelynywlee
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelynywlee"/>
 
 <!--
 **adelynywlee/adelynywlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
