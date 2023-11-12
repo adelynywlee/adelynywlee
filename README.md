@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to Adelyn's Github
+Welcome to Adelyn's Github!
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelynywlee"/>
 
